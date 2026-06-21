@@ -1,6 +1,6 @@
 # ============================================================
-# BITÁCORA DIGITAL DE MANTENIMIENTO – ARCHIVO COMPLETO FINAL
-# ING. MECÁNICA ELÉCTRICA - JHAN HERRERA ORBEZO
+# BITÁCORA DIGITAL DE MANTENIMIENTO AEP
+# Aplicación Streamlit para registro de actividades de mantenimiento
 # ============================================================
 
 import streamlit as st
